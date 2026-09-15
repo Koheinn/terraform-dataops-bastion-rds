@@ -1,0 +1,12 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+
+# SSH private keys
+*.pem
+*.key
+
+# Environment variables
+.env
